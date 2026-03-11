@@ -18,9 +18,9 @@ Pro-only features:
 - seat-based pricing
 - free tier
 
-More information: https://saasforgekit.com/
-Documentation: https://saasforgekit.com/documentation
-Demo: https://demo.saasforgekit.com
+- More information: https://saasforgekit.com/
+- Documentation: https://saasforgekit.com/documentation
+- Demo: https://demo.saasforgekit.com
 
 ## Tech Stack
 
